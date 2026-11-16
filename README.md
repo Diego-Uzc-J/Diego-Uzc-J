@@ -2,7 +2,7 @@
 
 ### **Ingeniero de Sistemas | Desarrollador Drupal | Python & SQL | Aspirante a Ingeniero de Datos**
 
-Ingeniero de Sistemas Computacionales con más de **12 años de trayectoria** en el desarrollo, mantenimiento y optimización de soluciones web avanzadas y gestión de bases de datos. Apasionado por la automatización de procesos, el rendimiento de scripts (Python/Bash) y la transición hacia la **Ciencia e Ingeniería de Datos**.
+Ingeniero de Sistemas Computacionales con más de **12 años de trayectoria** en el desarrollo, mantenimiento y optimización de soluciones web avanzadas y gestión de bases de datos. Apasionado por la automatización de procesos, el rendimiento de scripts (Python/Bash) y la transición hacia la **Ingeniería de Datos**.
 
 ---
 
